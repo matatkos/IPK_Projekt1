@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "main_client/1.0.0": {
+        "dependencies": {
+          "TCP_client": "1.0.0",
+          "UDP_client": "1.0.0"
+        },
+        "runtime": {
+          "main_client.dll": {}
+        }
+      },
+      "TCP_client/1.0.0": {
+        "runtime": {
+          "TCP_client.dll": {}
+        }
+      },
+      "UDP_client/1.0.0": {
+        "runtime": {
+          "UDP_client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "main_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCP_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UDP_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

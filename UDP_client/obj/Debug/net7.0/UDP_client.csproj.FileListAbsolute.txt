@@ -1,0 +1,12 @@
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\bin\Debug\net7.0\UDP_client.deps.json
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\bin\Debug\net7.0\UDP_client.dll
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\bin\Debug\net7.0\UDP_client.pdb
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.csproj.AssemblyReference.cache
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.AssemblyInfoInputs.cache
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.AssemblyInfo.cs
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.csproj.CoreCompileInputs.cache
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.dll
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\refint\UDP_client.dll
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\UDP_client.pdb
+C:\Users\matat\Desktop\2BIT\IPK\projekt1.0\Projekt\UDP_client\obj\Debug\net7.0\ref\UDP_client.dll

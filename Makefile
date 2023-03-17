@@ -1,1 +1,2 @@
-all: dotnet build
+all: 
+	dotnet build
